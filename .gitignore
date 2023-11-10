@@ -13,6 +13,7 @@ yarn.lock
 package-lock.json
 .yarnrc.yml
 .yarn
+.vscode/
 
 # macOS
 .DS_Store
